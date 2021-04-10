@@ -1,8 +1,11 @@
 # Car-accounting
 https://studwork.org/order/3988237-kursovaya-c
 #Introduction
+
 This software development can be used in road transport companies for the purpose of controlling information about sold vehicles.
+
 The goal is to create a database and a program that allows you to record information about cars sold.
+
 #Tasks:
 Define input and output data
 Develop an optimal algorithm for solving the problem
