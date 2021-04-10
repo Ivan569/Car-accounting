@@ -1,13 +1,13 @@
 # Car-accounting
 https://studwork.org/order/3988237-kursovaya-c
 
-#Introduction
+# Introduction
 
 This software development can be used in road transport companies for the purpose of controlling information about sold vehicles.
 
 The goal is to create a database and a program that allows you to record information about cars sold.
 
-#Tasks:
+# Tasks:
 
 Define input and output data
 
@@ -23,7 +23,7 @@ Select data by a certain condition, output data
 
 Overview of methods and tools for solving the problem
 
-#Tools:
+# Tools:
 
 Visual Studio is an integrated development environment (IDE) from Microsoft. With Visual Studio, you can develop: Classic applications for a computer running the Windows 
 
@@ -33,7 +33,7 @@ extensions for Visual Studio; Games; SQL Server and SQL Azure databases. In Visu
 
 Microsoft Office Access is a powerful editor that is a database management system based on a relational model. It should also be noted that it uses a dynamic exchange model between network resources and applications. At the same time, the editor uses advanced tools to process any type of information and present them in a clear, consistent structure.
 
-#Methods:
+# Methods:
 
 1. Using the acquired knowledge in the process of solving practical problems or problems that require the integration of knowledge from different subject areas.
 
@@ -45,7 +45,7 @@ Microsoft Office Access is a powerful editor that is a database management syste
 
 5. Reference to literary sources of information.
 
-#Problem statement
+# Problem statement
 
 1. Defining input and output data
 
