@@ -60,23 +60,42 @@ Microsoft Office Access is a powerful editor that is a database management syste
 
 Software implementation and testing
 
-For each sale, the program records the following information::
+For each sale, the program records the following information:
+
 • Car make (text)
+
 • Color (select from the list)
+
 • Year of manufacture (number)
+
 • Date of sale (date)
+
 • Amount (number)
+
 The program implements two forms:
+
 Main form - a form that contains a list of cars sold (brand + amount) (listbox). The main form contains the main menu (mainmenu), which consists of two sections:
+
 Files - > Upload, Save
+
 Edit -> Create, Edit, Delete.
+
 A context menu with items (Create, edit, delete) is linked to the list. When you select the menu items "Create" and "Edit", a second form appears on the screen, in which information about the car is entered.
+
 The auxiliary form contains the following elements:
+
 • Car make (text)
+
 • Color (select from the list)
+
 • Year of manufacture (number)
+
 • Date of sale (date)
+
 • Amount (number)
+
 As well as two buttons " OK " and "Cancel". When you click OK, all changes are displayed in the list. When you click the "Cancel" button, the changes are not included in the list.
+
 Information about all listed vehicles can be saved in the Microsoft Office Access database.
+
 You can also open a database (Microsoft Office Access) containing a list of cars.
